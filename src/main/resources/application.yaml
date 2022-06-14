@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: LO23BDP
+  profiles:
+    active: prod
